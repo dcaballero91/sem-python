@@ -69,6 +69,8 @@ def accesoSet(codigo,password):
         login = driver.find_element(By.XPATH, '//*[text()="Ingresar"]')
         login.click()
         sleep(5)
+        driver.close()
+        driver.quit()
         
              
     except Exception as e:
