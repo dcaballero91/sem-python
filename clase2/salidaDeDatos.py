@@ -2,5 +2,5 @@
 Salida de datos
 '''
 app="python"
-proyecto="com.unida"
+proyecto="app.py"
 print(f"Se hara {app} se llmara {proyecto}")

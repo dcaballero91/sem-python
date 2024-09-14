@@ -11,6 +11,7 @@ print(palabra)
 print(type(palabra))
 print(dato)
 print(type(dato))
+#--------------------------------------------
 print("Sumando")
 num1=1
 num2=2
@@ -22,7 +23,7 @@ print(type(dato))
 dato="Otro valor"
 print(dato)
 print(type(dato))
-#Est es un comentario
+#Este es un comentario
 
 '''
 Esto es comentario multilineas
