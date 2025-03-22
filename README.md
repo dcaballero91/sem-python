@@ -8,7 +8,12 @@ Esto es una demostracion de explicacion breve
 Instructivos
 
 ```bash
-  Ejemplo para que permita copiar comandos
+  yum install git
+  cd repo
+  git init
+  git add .
+  git commit -m "ejemplo de commit"
+  git push origin main
 ```
     
 ## Demo
